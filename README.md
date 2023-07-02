@@ -33,4 +33,5 @@
 </ul>
 <p>De-encapsulation is the stripping of data at each layer upon receival. </p>
 
+<img src="https://github.com/inezchong7/Networking-basics/assets/106855786/4dbac88d-2ce2-411b-b457-e58500e7bca0">
 
