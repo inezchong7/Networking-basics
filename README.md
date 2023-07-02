@@ -35,3 +35,18 @@
 
 <img src="https://github.com/inezchong7/Networking-basics/assets/106855786/4dbac88d-2ce2-411b-b457-e58500e7bca0">
 
+<h4>➡️TCP/ IP model</h4>
+<p>Firstly, connection must be established. This is done through the <b>3-way handshake</b>.</p>
+<p>The 3-way handshake: SYN (=synchronize; connection request) - SYN/ACK (server response) - ACK (=acknowledgement; connection confirmation)</p>
+<img src="">
+
+The 4 layers of networking:
+<ul>
+  <li><b>Application</b>>: </li>
+  <li><b>Transport</b>:</li>
+  <li><b>Internet:</b></li>
+  <li><b>Network Interface:</b></li>
+</ul>
+
+<p>**A header is added during encapsulation, and removed during de-encapsulation, same as in OSI.</p>
+<img src="">
