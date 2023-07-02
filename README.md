@@ -18,4 +18,4 @@
   <p>**MAC/ Media Access Controls are found with each computer's NIC/ Network Interface Card.</p>
   <li><b>Physical:</b>converts binary data into signals to send; converts incoming signals into binary data to receive.</li>
 </ol>
-<img src=""> 
+<img src="https://github.com/inezchong7/Networking-basics/assets/106855786/e854fc88-09c9-45b4-92cd-6e05fc89a55e"> 
