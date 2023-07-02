@@ -1,4 +1,4 @@
-<h1>Nmap (Network Mapper)</h1> 
+<h1>Networking basics</h1> 
 
 <h2>Description</h2>
 <p>My notes about Networking are documented here.</p>
