@@ -52,5 +52,5 @@ The 4 layers of networking:
 <img src="https://github.com/inezchong7/Networking-basics/assets/106855786/d590b8d1-713d-433a-8af6-be26eada8669">
 
 <h4>➡️DNS requests</h4>
-<p> When a request to a website is made, computer checks local cache for IP address first. If not found, request is sent to a recursive DNS server. Is still not found, requests is passed to Root Name Server. Root Name Servers pass the request down to appropriate TLD/ Top-Level Domain servers (low-levels). TLDs are categorized by extensions (eg. .com, .co). Next-level down is Authorative Name servers. All DNS records are directly stored in Authorative Name servers. /p>
+<p> When a request to a website is made, computer checks local cache for IP address first. If not found, request is sent to a recursive DNS server. Is still not found, requests is passed to Root Name Server. Root Name Servers pass the request down to appropriate TLD/ Top-Level Domain servers (low-levels). TLDs are categorized by extensions (eg. .com, .co). Next-level down is Authorative Name servers. All DNS records are directly stored in Authorative Name servers. </p>
 
